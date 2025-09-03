@@ -1,20 +1,19 @@
 {
-  "Author": "darkarchon",
-  "Name": "Mare Synchronos",
-  "InternalName": "MareSynchronos",
-  "AssemblyVersion": "0.8.35.0",
+  "Author": "Neko-Net-Sync",
+  "Name": "Neko Net Client",
+  "InternalName": "NekoNetClient",
+  "AssemblyVersion": "1.2.0.0",
   "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/MareSynchronos/client",
+  "RepoUrl": "https://github.com/Neko-Net-Sync/Neko-Net-Client",
   "Tags": [
     "customization"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/MareSynchronos/client/main/MareSynchronos/images/logo.png",
   "Punchline": "Let others see you as you see yourself.",
   "AcceptsFeedback": true
 }
