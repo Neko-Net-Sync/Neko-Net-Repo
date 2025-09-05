@@ -2,7 +2,7 @@
   "Author": "Neko-Net-Sync",
   "Name": "Neko Net Client",
   "InternalName": "NekoNetClient",
-  "AssemblyVersion": "1.2.0.0",
+  "AssemblyVersion": "1.3.0.0",
   "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Neko-Net-Sync/Neko-Net-Client",
